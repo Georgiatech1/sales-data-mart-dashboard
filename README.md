@@ -13,10 +13,10 @@ The workflow included:
 
 ## Data & Modeling
 
-- 📂 **Raw Data** → `data/sales_data_mart_raw.zip`  
+- 📂 **Raw Data** → [Download `sales_data_mart_raw.zip`](sales-data-mart/data/sales_data_mart_raw.zip)  
   Original CSV files used for the data mart.
 
-- **Data Model** → `data/sales_data_mart_data_model.xlsx`  
+- **Data Model** → [Download `sales_data_mart_data_model.xlsx`](sales-data-mart/data/sales_data_mart_data_model.xlsx)  
   Cleaned and merged model built with **Excel Power Pivot**, including:
   - Formatted columns (currency, percentages, dates)
   - Calculated columns:
